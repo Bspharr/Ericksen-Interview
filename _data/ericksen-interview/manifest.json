@@ -23,16 +23,6 @@
         "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5220.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://Bspharr.github.io/Ericksen-Interview/annotations/ericksen-interview-canvas-1-interviewee.json",
-            "label": {
-              "none": ["Interviewee"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/paintings",
