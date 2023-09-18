@@ -1,0 +1,977 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Bspharr.github.io/Ericksen-Interview/annotations/ericksen-interview-canvas-1-interviewee.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, it was just part of the bigger broader picture that CCNMA was probably the most active organization nationally, certainly in California. And we relied on them to work with them and finding people that would like to, to participate in, in what we're where we were headed, which was to get a get an overview of Hispanics in the media.\n\nSet Up Response",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "47.0,86.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay, the idea came about through conversations we had with a guy named Jerry Sasse. Who was with the freedom freedom forum at that time, yeah. Jerry was was a great interview. Great idea of getting the context of the Hispanic organizations or, or Hispanic Journalists primarily, together to organize. And at first initially, I think Jerry was talking about all minority organizations, and Black, Hispanic, and what other groups were just barely getting born by that time, but it was mainly through any Ah, yeah, through through any che that and CCNMA, that the concept started with, we didn't know any, any of each other. We didn't know people in Philadelphia, barely in New York, any of those, a lot of that the skeleton for what we wanted to do was coming through CCNMA and learning how to how to steal their talents and their experience. Yeah.\n\nBody language - smirk / smile when referencing 'learning how to steal their talents and their experience'",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "129.0,212.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In? Right? No, no, not in the in the board of CCNMA at any, any particular point. But we we found a great friend and Frank Kohtaro lawsuit and then the great support from the National Foundation that was running without one. What was the name of that one the organization that was funding? The gannet Foundation, yeah. They they through Gerald Sass (sp?) who was at that point, their their head of their education program, as I recall it. He had this concept that Hispanic groups should get together particularly in the media. And it initially started with all all groups getting together and then we and then none of the groups like the that idea as much as dealing specifically with Hispanic organization, yea\n\nIn-depth response\nSeveral topics covered in the response that could warrant more probing - great friend in FK, great support from the Gannett Foundation, Gerald Sass's (sp?) intiation of the concept that all Hispanic media should come together; group not aligned that all groups should some together versus an organization specific to Hispanics",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "219.0,234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "no different when there were very few of them. And they, they were from different Hispanic organizations, not just Mexican American organizations, and a lot of the activist groups that included journalists, were instrumental in the concept that where we would argue, are you with Jerry, Jerry and everybody and each other as to what kind of an organization we should have? Yeah.\n\nResponse \nInterviewee references the 'in group arguing' for a second time\nInterviewee body language seems engaged, with slight smiling. Could indicate fondness when recalling the memory",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "308.0,343.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, that was that was a big one. And there was also a Spanish language one at almost simultaneous time that we got, we got very involved Hispanic link.\n\nFollow up response",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "350.0,363.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, they were they were held in different parts of the country. And Frank probably would have participated in all of those. And I imagine you got all that information that we we'd meet in one part of the country, and then we'd go to New York, or we'd go trying to think of, there were different cities around the country that I'm sure Frank to (remainder not deciperable). Yeah\n\n\nInterviewee interrupted the interviewer to respond.\nInterviewee body language included hand gestures while speaking \nNo clarity on who Frank is ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "598.0,624.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Just bringing together who in some role were activists, as journalists, in in whatever city we went to, or where we knew there was a Hispanic organization like LULAC, or others that we wanted to get their involvement participation and input. That I'm trying to separate And maybe you can't, the activism of the activists versus the journal, journalists, and and there's a real mix there a good, very important mix, that the active played a major role in a lot of those early days. And we would invite the president of LULAC, the president of these different groups to play leading roles, and in getting getting the communities together and an invite inviting participation of people who wanted to wake up the Hispanic community. Yeah. Okay.\n\nIn depth response\nInterviewee recalled memory with hand gestures",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "633.0,692.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They helped in in shaping it and forming it and deciding what were the issues. So we had to deal with Hispanics defining their own issues. Mexican American primarily at that point, it didn't pay too much attention to the to the Cubans about zero at that point, except the Cubans were having some political input, at that point to change it to an organization much different than then it eventually emerged",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "703.0,736.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, Cubans were still hung up on Cuba and and the income and very political, DC kind of stuff. And, and interest in self interest where these journalists that would got together, we're all interested in journalism and giving Hispanics a role and an important role, and wiping out any political stuff that was on the fringes there. With out of Washington or LA or federal government, a lot of some of the some of the Hispanics, who were activists in other kinds of Hispanic organizations. Yeah.\n\nIn depth response",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "739.0,783.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Give diff different focuses, but I think overall, through Frank Newton, we came together. And Frank was an interesting guy in that he had no real journalism background at that time. He was he was a major his major was primarily his degree He was in health. And, and I don't know how CCNMA eventually got Frank involved initially. Because he was taught he had nothing, no experience in media. But he was a better writer than some of the reporters. He's a magnificent, contributer, contributer, contribution of bringing, bringing us together? And did it did a great job of solving arguments that might be male female might be at a variety of things. That point Yeah, and most of most of them were male, but the female voice was very definitely there. And quite different in some ways.\n\nIn-depth response",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "879.0,945.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, the females seem to find real problems with some of the things we were doing. And they end with Frank, one point they tried to get Frank fired because of a bill of $26, or something that one of the women wanted. And, and he didn't, he didn't approve it. And so it was it was amazing. The that was about the only real internal battle was when Frank was there. And was was with a few women, one working for The New York Times one working for trying to think who else that I'm trying to think of her name. And they, they have that particular group that was had its own agenda. We had some good Hispanic female working to that time. Our own Elaine Rivera was the first Secretary of the group and she was an intern with us when she got that job with Hispanic link. We had already formed Hispanic link. And and I don't know whether that and that's, I guess that's not a major thing. But it was very present, because there were some very strong positive females in the group tune. mostly males, but but both male and female. Yeah.\n\nI just remember, all those internal internal frictions and factions, so we're at work there. And I was I was an issue too, because I'm not Hispanic. And, and, and I had, and yet these said, I just had to be an organization of Hispanics, period. And they do so then they took to me and said, Well, okay, Charlie, you define Hispanics, so that you're included? And that's what happened.\n\nI became the first secretary. Because Because because of our Hispanic link, who was was a real activist group and writing columns, about Hispanic issues and all that, but that I became a very integral part of the group that was putting that was activists, I guess, I'd say, and that was saying, we gotta, we got to get more voice for Hispanics, and we got to get more money. We got to these are all things that Frank had to sort out. Yeah.\n\nIn-depth, reflective response\nThe response included a long pause\nBody language included laughter and more animated gestures when recalling his own exclusion from the group for not being Hispanic.\nInterrupted the interviewers attempt at a follow-up question at 18:15 (So, so, so...)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "951.0,1135.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Not with our founding group. Well, I was because I was a member of the founding group and, and I would bring it up or anybody could bring but none of them said, Oh, no, Charlie, you're much more Mexican, most people and, and they just said, you figure out how to make yourself included. And that was about it. Because we were we were the most activist group at that point. And mostly southwest, Southwest and focused. We didn't know too many, only one or two names came up from Miami, or from New York or places where they ended but some very key players of ours were were were from those other groups. But it was mostly Mexican American\n\nIn-depth response\nInterrupted the interviewee question to respond\nBody language includes laughter at the opening of the response and when recalling how he was considered more Mexican than most people. Inserts a large hand wave when making this statement ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1144.0,1197.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh yeah, it was very strong resistance by cc CCNMA with Frank the LA Times who just become a reporter after during the era when Ruben Salazar was murdered. But But when Frank del Olmo of the LA Times, he did not want this organization to exist. And he was very strong on that, that it shouldn't exist. And he was a pain in the butt as far as I was concerned, at that time.\n\nForthcomingness and ease in response",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1212.0,1255.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Opposing a national group? Because he should we already have a national group and CCNMA. And we already we all we are the power and we should be the voice. And he really he very, very narrow idea. And I think there's were a guy one one meeting that we had in LA. He Sass (Jerry) pretty well told Frank del Olmo, who was who was making a lot of negative arguments. He says, Okay, well, we've gone through all of this, this hassle. We're gonna go ahead and do this. And whether Frank wants to be with us or not, that's his problem. And he quickly bowed. And he quickly bowed.\n\nIn-depth response\nBody language included laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1259.0,1310.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "He was. He Frank was not a member of our organizing group. Frank. Del Olmo. Yeah. And he was against such a group for a long time and said, if you want if you want $100,000 to start, get get us going. That's how we this is how we're going to do it. And if Frank del Olmo or any of his friends didn't like that, we were gonna go ahead and do it anyway. That was that was a pretty big battle for a while there. I don't know whether Frank COTA Robles mentioned that. He might have done a sort of referred to it, but that was a big, that was a big battle.\n\nIn-depth response\nBody language included laughter\n",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1313.0,1361.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh, hell we hired, we hired their leader. And he was fully for us. Yeah. For for the people that we're trying to bring this national association into existence. And the reason that we could do it was once again, the $100,000 that we got initially from, from the Gwinnett Foundation. And at that time, Jerry Sass (sp?) was the guy who had the purse.\n\nForthcoming response \nBody language included deep laughter recalling that the organization hired their leader and that Jerry Sass had the purse.\n\n",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jerry and Gerald used interchangeably when speaking of Mr. Sass (sp?)",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1373.0,1407.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "He wanted Hispanics in the media to have a voice, a national voice, and he initially wanted it to include blacks or the other minority groups. But he quickly acquiesced to the majority group that we that we just make it Hispanic, the organization National Association of Hispanic Journalists, including the name\n\nForthcoming response\nBody language included some laughter and hand gestures to emphasize points, particularly Hispanic",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1422.0,1398.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, I mean, we attempted to get them into NABJ, as I recall, even in the early stages, was was was supportive of what we were doing. And whether they had their own group at that point, and they saw a need for if we want to be a Hispanic group, they would pretty well support us. That's my recollection of it. I'm not that clear on on that, but yeah, we worked. We worked very well with a lot of black groups at that point.\n\nIn-depth response",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1466.0,1499.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I'm trying to remember. Was it there was it just seemed to, to emerge? That that who were we we were Hispanics in journalism. And that's, and that's how we were thinking and doing.\n\nResponds staring off /attempting to recall",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1512.0,1532.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That was that was a lot of discussion whether we should go into Texas or California or where, and it was, I think probably Gerald SAS might have had a pretty good influence on deciding that we should be in, in Washington, DC, because that's where that's where the political action was. That was the papers were involved, and decision making. And that's where we really wanted to be to have a national voice. Yeah. It made a made a lot of sense. It seemed to just about all of us. Yeah.\n\nIn-depth response",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1541.0,1585.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, there was a battle over whether we should be in Texas, or whether we should be in California as headquarters. And there was arguments on all of them, but very, very constructive arguments on all of them. And for some reason, I think for political purposes, they decided, and we had a group in DC that was willing to play a major role in pulling, pulling things together. Yeah. I imagine some of this Frank might have been a little timid about talk. Well, who live but, but he was so important, as a peacemaker. And as and in finding people like Hector, Frank Frank, of New York, who was writing a call. One we were just talking about Juan, besides being a good dancer, he was he was also a good mediator. Yeah, very good. And they were constrained there was a Cuban American group that was still pretty, pretty vocal at that time. And led by you gave me that guy's name again. Those are vice president and he was supposed to become the second president, the guy that was the first president was a guy who was with CCNMA, not with CCNMA, you know, a with Guenette. Yeah, Gerald, Gerald was a very, very powerful voice at that time and a very strong voice. And, and who was not against arguing with somebody on something but a great guy, and and a real power in, in mainstream media at that time, he was one after another he'd have through gannet be, be editor or the publisher of various major newspapers around the country or news organizations, and a hell of a guy I love Gerald. That he would he would, he would be very, I don't know. He knew what he wanted. And he, he made it happen. But he people respected him. Feared him a little bit. Yeah. Because because they saw him as being the guy who had the money. He was editor and publisher of newspapers back in New Mexico and all over the country as a member of the nets power our power structures. Yeah.\n\nIn spite of the simple and concise follow-up questions, the interviewee is forthcoming in offering thoughtful and in-depth response to this question\nGerald Garcia\nBody language included laughter at some points in the reflection\nJuan could really dance! ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1590.0,1771.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, well, first of all, we had to kick them out. Kick out the Those who want to PR and those are some in Chicago in DC, and that they had to be fuller, at least major, major source of income would be, would be they would be journalists, Hispanic Journalists, until I wrote that magic sentence that said I was I can't even remember how that came out how it reads in the bylaws now, but but it left a little wedge for me.\n\nResponse to follow-up\nBody language included laughter \nRecounts how he left room in the by law language to include himself as eligible with laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1796.0,1836.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, we were wording without really doing it. We're just doing it. Yeah, just making. Oh, Charlie's been on the committee that put this group together. Charlie's got an active group that speaking very openly on Hispanic issues for them that that we got to we can't just exclude him. We just send the word. I don't know what the hell the wording we finally came up with, or if we did or just ignored it. Yeah. But anyway, but they just elected me had a or the treasurer and I didn't know a damn thing about money.\n\nInterviewee clarifies with the response\nAdds more context\nEludes to how the organization was feeling their way through the process of organizing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1841.0,1880.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay. First, the first officer was Gerald, who was president, and then he was just going to serve one term and Guillermo Martinez had pretty good. He seemed to conserve one term and gearbox as well, I'm unhappy the second term. And then at the last minute. Gerald says, Oh, I think I'll serve another term that really pissed off the Cubano that we had in that group, who was then a columnist for The Miami Herald or something. He was very active in the Miami Herald. Gerald ruled. Gerald got his way. And I think it was a way that would satisfied very much our funder. Yeah. Because he had you had to respect Juan Gonzalez, you had to respect Frank, Frank Newton and other peoples who who state kept their, their eye on on the goal. And I knew there was not that much friction among our, our, for our for our full planning committee members that we have a lot of fun and we had we did a little drinking together and we we had and dancing as I mentioned it was a bunch of groups I mean, a group of people from all over the country that didn't know each other really and and and Frank Newton had to had to deal with all of them and set up all the meetings and decide where what cities we were we're going to hold the next meeting and form it forming meeting and make a lot of decisions like that that where we did come to grips with with with that issue, but it didn't turn to be a big issue. The main thing was getting a national organization founded and, and the funding was already there from Gerald and ganache. Yeah.\n\nInterviewee is responding with ease and seems to be aware of the importance of the interview and recounting the experience of founding an organizing by answering in-depth and reflectively regardless of how in-depth the follow up questions or probing is",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1919.0,2058.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, gotcha. You had the publishers in there, too. Yeah. And I wasn't, they were moving pretty fast to make it a national Hispanic Journalists group. And I hated to see those other guys go in one hand, that who that who brought the movie stars in into our broadcast or our organizations, then I was sort of torn because they, they would bring a hell, they would bring some money, they would bring some some major people from Hollywood in there. And but it was sort of diverting, what the focus was going to be. And that decision, I forget how it was made, but I was not any major role in saying, we were going to just do our, our kick kick all those other groups out, which they did. Frank are Kirk Whistler. Is that name come to mind? Yeah. Kirk, Kirk was a lot of just all groups. Another amazingly another non Hispanic played a major major role is very self very selfless guy who, who was continually working for the organization.\n\nNoting the detail in the response.\nInterviewee is relating firsthand experiences clearly. \nInterviewee mentions another non-Hispanic member of the organization / no additional probing on that individual and their relationship with the interviewee or the organization",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2222.0,2308.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "New like a new Oh, I did. Oh, Hamas. No, yeah, one of our interns who was one of our interns was a major person and, and we've had Hector and I, I think went to a conference of Hamas or a group of Hamas people but surely wasn't ordered that organized anyway, in Hollywood, early on, to to just get to meet with them through one of our interns. And to Numa, he is rentas from Puerto Rico. And we worked a lot with them and and at that point, I wasn't sure how we're going to include or not include Hollywood type people. Frank with us was a guy that the most famous one at the time was Jane Eddie James Edward James Olmos. And Eddie and I had met James Dolan was at a party and in Washington he was staying with with what's her name who died What's her name? Her husband was Jewish. And but she was she was very active with Hispanics in Washington DC. God was her name. But she was she was wonderful. There's another another. But but we did we did. That wasn't a huge problem at that time, it was just figuring out how to do it. And what to keep them all in mind, which they weren't very happy with some of them. But But it made sense by the name of by what we named our organizations, you can see that we had to get them out because I one of the workshops I put on in that first group was I brought people like Reader's Digest and a bunch of Hispanic or nat or broad national organizations that could do that. And I had a workshop on how to how to get yourself published in these kinds of organizations. And in the room next to me was Edward James Olmos, I think oh yea and I only had about two people show up for mine. And everybody was over there were the stars. Which they packed that other room and I had about two to two people coming into my group. That was perfect. They wanted to go see Eddie Olmos they wanted to go see what was her name, who won all kinds of awards. The actress who, who died not long ago. She was always a maid. Every damn movie she was ever in. She was she was a maid. But we had a lot of fun. But we had to we had a wonderful time forming the first couple of years. And at one one time I mentioned and I don't know whether Frank mentioned about the women that tried to get him fired. Gotta ask him about that over like a $24 bill that he refused to say is legitimate business and sci fi and finally forced him to quit. He just didn't want to put up with that bullshit anymore. But his his thing that he wrote, and I don't know whether you read it yet. How facetious yet I've got it here. Hector has it. We ran it. And I'm trying to think whether, whether Hector I think we've got it somewhere there. \n\nNoting the detail in the response.\nInterviewee is relating firsthand experiences clearly. \nInterviewee laughs and appears animated throughout the segment recounting the experience.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2319.0,2567.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "At that time broadcast and mean much of anything? There were very few Hispanics in any broadcast groups that had any real clout. And Brandis, Spanish language media had had had no power at that point. Now, one of his shown was what was a spec? At that point? Yeah. And there were some good people that have since come along and, and developed through through their own who's the one that wrote the book and does a weekly show. Sunday morning. What's it called? Yeah, yeah, Jorge is a hell of a good guy, a great, great guy, and very thoughtful and very good journalist, period. What, but the two have never really merged like they should. In other words, he ought to be on English language, TV. And stuff, as well as just his whole focus is Spanish language. Great, great respect for him and what he has done.\n\nAnd then his book was good, too. I'm sorry that I'm losing a lot of my memory.\n\nOr at least giving you some ideas of things that Frank probably out of courtesy wouldn't cover.\n\nInterviewee is being transparent and forthcoming / offering information that other participants might not offer and/or for probing if the topic is not raised\nInterviewee shows some enthusiasm with a slight raise in his voice when speaking about Jorge\nInterviewee reminds the interviewer of his health status reiterating that he is losing memory but does so with laughter / emphasizes the importance of the opportunity to collect the interview",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2716.0,2810.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, yeah. I was very much an activist in Southern California, we, I worked with a bunch of activists during the Papa Browns administration, where we were getting people through a guy named Phil Montez, who's one of them, I went to the guy who taught me so much, who was with the National. Let's see what was the various jobs. Phil was a guy who, like me was in the Korean War. And his plane crashed with him in it and some other guys and he was the only one who lived. And he spent about almost a year laying on his back in a in a hospital bed. And he made one stupid mistake by Mariana his nurse who was a bitch. She, she was Italian. And I say because she she hated me too. When I go, Phil became the Western Regional Director of the US Commission on Civil Rights. And he just retired and he's in Santo he's in Pasadena is where he lives now. And we and we, he was very close friends was much closer friend and I, I was although I had great time with him with feeling with [not decipherable], and we haven't really talked at all about Reuben. Reuben Salah side (sp?), who was an incredible force and the LA at the LA Times, but they didn't like him. But he was just, he just overpowered them by telling the truth about the the failure of society to accept his Mexican Americans. Yeah. And he, he was a wonderful guy.\n\nNoting because this because the interviewee speaks strongly and negatively about the wife of another individual who is still alive at the time of the interview. Denotes the ease and comfort with which the interviewee feels speaking in the interview environment.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2828.0,2954.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, I think it would, because everybody was a white activist then and for white issues, and white activism, and they just didn't. I mean, the recognition that Hispanics got was tragic in that era that Mexican Americans were considered farmworkers, you know, and, and we weren't the activists, it was the racist activists or the white community that we were having to deal with more than anybody. And we but we managed to get under Papa Papa Brown. Jerry Brown's daddy. Yeah, we got people appointed appointed for the first times to like the State Board of Education. And we were running all of this through Philmont Montas (sp?) office in Civil Rights Commission. And Phil, Phil is wild, wild, great guy. It's up to you. He had, he was stuck with his first wife for about 10 years. I'd go home, I was living in Sacramento and and he was living in LA and I was in our office was in LA. And on some nights, I'd stay overnight at his place. And, and, and we'd be drunk half drunk by that time, of course. And, and so and so his wife was wasn't getting along too well with him and, and then when she opened it, I see, Oh, you brought that fucking Ericksen along. But he eventually dumped her and she's a good friend of mine. He's still a wonderful leader of so many people what he taught me. And I'll tell you this, I think an important side is gave me all kinds of courage to do things that I that I wouldn't would never have done without his leadership. As an example, I would put hold hearings in Sacramento or even in other various states for the Civil Rights Commission. I worked for them for a while and and he just say Charlie, put together a hearing and get the key legislators and I didn't know how to do that. I just did it because Phil would scare me if I didn't do it, ya know. And I had just been going to work for him. But basically, I'd been a writer, even a sports writer, my first job was as a fishing writer for the Los Angeles mirror.\n\nInterviewee continues to respond to prompts with familiarity and ease\nBody language includes laughter and fondness in recalling the moment",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2975.0,3143.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, well, yeah. When we had most all of us were activists in that era, that we that we knew we were getting screwed by the white authorities and, and I was just a learning from other people on that. I wasn't a very good dancer. Oh, anyway, this is a sample we held hearings and city cities around the eight western states. We are in charge of that. Not me but Phil Montez is Western Regional Office. And I put together a committee committee that would talk talk about what was about the racist things that were happening in a little town called Guadalupe in Southern California. And then I got this guy, one of our chief people that was going to testify was worked for Gary for eight years there. And in Guadalupe, New Mexico, I mean, California. And the day before that he was going to testify. Immigration picked him up and put him in deportation. All because the whole organization there was was run by by a by the right right wing of finance fanatics. What's anyway, couple of real racist organizations group and, and so I said, hey, they told Phil Caulfield, the chosen one of our one of my key witnesses, and they're gonna deport them the next morning. That's the control that they had that the Q reactionary groups had in that in that stage of what did they call that group?\n\nNoting for the detail and clarity in response. The interviewee is forthcoming and transparent in describing the barriers and resistance faced and what he learned from other activists. \nNoted how the Civil Rights Commission had no power but the head bluffed his way through the barriers with a \"great moral\" power and he learned how to manuever from that experience.\nThe story continues to 59:43.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3156.0,3286.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewee-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But if you ever have time to talk to Phil, you gotta you got to do it because he's an amazing guy, what he accomplished with with an organization that has no power, because nobody knew that they didn't have any power. So I drove Well, this guy, I'm trying to think of his name. We got him tied up with some lawyers, we got him out, gotten all tied up with some lawyers and got him to testify and and to do things all all, because Phil would scare me if I didn't do it. Yeah.\n\nNoted because the interviewee encouraged a follow-up interview with the former head of the Civil Rights Commission",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3584.0,3620.0"
+        }
+      }
+    }
+  ]
+}

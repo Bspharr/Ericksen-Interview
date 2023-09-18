@@ -1,0 +1,1109 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Bspharr.github.io/Ericksen-Interview/annotations/ericksen-interview-canvas-1-interviewer.json",
+  "type": "AnnotationPage",
+  "label": "Interviewer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So as I mentioned, we want to talk mostly about your involvement collaboration with CCNMA. During involvement in the foundation, the creation of any NEHA, and any other anecdotes or recollections relevant to this topic, or anything you want to bring up. So the first thing I wanted to ask you is, so when you started Hispanic link in those years, what what was your relationship with CCNMA?\n\nSet up question\nJumped right into a specific/focused question without warm up / introductions / context ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "CCNMA: Latino Journalists of California",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "35.0,46.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So at that moment, who was your main contact there? Who are you working with?\n\nFollow-up question\nMissed the opportunity to ask more probing question about why it was important to get an overview of Hispanics in the media / context of the time",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "88.0,94.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So do you recall what the who came up with the idea of making a national association now, how did the idea come about?\n\nFollow-up question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "117.0,128.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Where you involved in the board for CCNMA? Or where are you moving?\n\nFollow-up question\nMissed opportunity to probe / missed body language cue from the interviewee from previous response",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "213.0,219.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So you mentioned that at that point, you didn't know, there were there wasn't a lot of contact between Latino journalists\n\nFollow-up question\n",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "301.0,307.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So do you. Where you at the 1982? The big conference in San Diego?\n\nFollow-up question\nMissed opportunity to probe on in group tension.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "344.0,350.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What was your involvement, specifically?\n\nTook the opportunity to probe more in-depth",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "365.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay. So after after the 1982. There was founding committee forum to created?\n\nFollow up question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "391.0,400.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So how was the founding committee selected? How did they find people for the committee?\n\nFollow up question\nPersistent / Good job redirecting back to the original question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "425.0,432.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So were you involved in picking the in helping design the committee\n\nFollow up question\nGood probing",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "469.0,474.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So you people have different ideas. What what what are they? What are their disagreements?\n\nFollow up question\nGood probing / first time probing into the disagreements mentioned",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "494.0,498.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So when when you mentioned a little earlier, there were like, meetings that you...\n\nTransitioned the interviewee with the follow-up question back to a previously mentioned but unrelated point",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "592.0,598.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So when, when, when meeting, so why were they held in different cities? What was the purpose of shifting the location?\n\nFollow up question\n",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "625.0,632.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On that note, what what was the you said they contributed a lot of people involved. Oh, yeah. What type of contributions what was their, their…\n\nInterviewer follow-up question probing on what assumed to be the activist involvement / the question did not clarify who \"they\" were. \nInterviewee interrupted to say \"oh yea\" and interjected before the interviewee finished the question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "693.0,703.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Differently in what way?\n\nFollow up question to probe\n",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "737.0,738.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So on that same topic, so were there any maybe tensions or disagreements about the activist side and journalistic side?\n\nProbing follow-up question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "783.0,793.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And how are those? Yeah, I don't want to pull your attention. But those disagreements are those that how were they negotiated",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "872.0,879.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Can you tell me more about that specifically?\n\nFollow up question to probe ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "946.0,951.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So just to take a step back. So what was was that a niche of any point that you are not Latino? Did somebody say…\n\nFollow up question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1135.0,1143.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Going back to these. Some, that relationship between CCNMA which kept going Hmm. And NHA? Yeah. Was there any resistance by by CCMA or other local organiser?\n\nTransitions the interviewee to another topic\nMissed opportunity to probe on why Ericksen was accepted / considered \"more Mexican than most people\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1197.0,1211.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What was his argument for opposing?\n\nConcise follow-up question\n",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1256.0,1257.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So that was during one of the meetings?\n\nQuick follow-up question / provided the opportunity for the interviewee to engage in additional reflection ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1311.0,1312.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So after that, one incident that you mentioned, thing, did things change did the CCNMA board and the leadership become more cooperative, or…\n\nProbing follow-up question\nInterrupted by the interviewee's response\n",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1362.0,1372.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So what, what were the goals or how did Mr. Sass? You know, what did he What was his goal in supporting this?\n\nFollow-up question that was related but transitioned the interviewee into a slightly different direction",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1409.0,1421.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Was there working relationship or collaboration with other organizations like NABJ or...\n\nFollow-up question\nQuestion demonstrates some working knowledge of the topic\nIt is clear to the interviewee the question that is being asked and how it relates to the previous response\nInterviewee interrupted question with response\nMissed opportunity to probe on why the majority group felt it was important to focus on Hispanic and Mr. Sass thought it more important to be inclusive and how he came to acquiesce",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "NABJ: National Assocation of Black Journalists",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1399.0,1465.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I mean, when you mentioned the name that the National Association of Hispanic Journalists, was there, was there ever. Was there any issues when selecting how to how to name the organization?\n\nFollow up question\nWhile the question has relevance, could have used the opportunity to dive deeper into the previous responses",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1500.0,1511.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Another related question, why? How did you decide on Washington DC as the headquarters?\n\nFollow-up question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1533.0,1540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So there were no, there was no pushback on Washington, DC at all?\n\nFollow-up question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1586.0,1589.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So going back to the process that led to the creation of NUJ so once one thing, one responsibility of the founding committee was drafting the bylaws\n\nRedirected the interviewee with the question\nMissed opportunity to probe on why Frank may have been timid to discuss / more context around the relationship or importance of Gerald Garcia\nThere is clear fondness in the tone when recalling Gerald's involvement.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1772.0,1784.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So for example, what about membership? How did you decide who was eligible and who could vote?\n\nClarifying the follow-up question\n",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1784.0,1795.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So that was a reason or reworded?\nFollowup\nDid not seem to catch the tidbit about creating by-law language to ensure that he was included in the eligibility ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1837.0,1840.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I wanted to ask them. So. Earlier, you mentioned you mentioned factions\n\nInterviewer posed a specific/focused question to get the interview back on track",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2600.0,2605.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What about talking about journalists, specifically, people who work for different types of media? Were there any differences or any device, for example, broadcast\n\nInterviewer posted a folllow up question to transition topics",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2704.0,2715.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "One thing I wanted to ask you, you mentioned, activism, activism. And you said, you were you, were you. If I understood correctly, you were interested in giving a voice?\n\nFollow up question to transition to another topic",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2811.0,2827.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-interviewer-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So how do you see activism? You know, because traditional or, you know, widespread view of journalism. You know, there's this this new objectivity, and that was how does that square with with being an activist in your view?\n\nStrong follow-up question to the previous interviewee response.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2956.0,2974.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Bspharr.github.io/Ericksen-Interview/annotations/ericksen-interview-canvas-1-inteviewee.json",
+  "type": "AnnotationPage",
+  "label": "Inteviewee",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-inteviewee-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Here they were like quarterly meetings, as I recall, that we would meet in different cities and with other Hispanic groups, and a lot of activist groups, because there wasn't weren't any real journalism groups. So there were some that might be putting out a magazine magazine or doing something specific in their area.\n\nFollow up response\nFirsthand account",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "401.0,425.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-inteviewee-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It was sort of self selected by by who was doing something mostly journal in newspapers, or that might be a columnist, a few might be dealing, putting out a weekly, weekly column, some might be doing a TV show or radio show or something like that. We just sort of who do you know, and through that we, we found people that were both knowledgeable and interested.\n\nFollow up Response \nFirsthand account",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "432.0,468.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-inteviewee-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Identifying people? Yeah. And generally, I would say Jerry Sass (sp?) was there. He was bringing together the different groups trying to figure out what Hispanics wanted, and it was a tough job for him. Because a lot of people had different ideas. Yeah.\n\nFollow up response\nInterviewee body language appeared to be one of fondness when recalling the memory / interviewee chuckled\nInterview mentions disagreements for the third time\nNot clear who Jerry Sass (sp?) is / there have been multiple mentions\n",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "475.0,493.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-inteviewee-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, they didn't even we didn't even know each other. That point, you know, from Juan Gonzalez in New Mexico, I mean, in New York, or Jose Aresay in New Mexico, different places. We say, Well, this guy's doing something. For for graphics, I mean, for for doing things with the different organizations and, and getting us to know each other and to dance with each other. Literally. And who would who seemed that I just mentioned a Juan, Juan, he could dance all night, Juan, and, and very cordial. For the most part, everybody. Yeah. We had to do some battle with a Washington, DC group of PR people that were working for the federal government or that of the they thought they wanted to take it all over. And we've eventually told them you can't. And pretty well squeezed them out. Yeah. But they wanted to control it. And that was kaboshed (sp?), along with somewhere along the way as journalists survived. And they died eventually. Yeah.\n\nInterviewee\nIn depth response\nInterviewee recalled memory with laughter / leaning forward a bit\n\nInterviewer\nDemonstrated active listening when asked to recall who the interviewee just mentioned by name / the interviewer recalled accurately ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "500.0,591.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ericksen-interview-canvas-1-inteviewee-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, yeah. We had a Cuban from Miami, of trying to think of his name. He was the second vice second president of NIH. Yeah, what is it? Guillermo? No. I'm terrible. Yeah, he, I mean, he was very, very much focused in on what on Cuban and things and things like that. And Juan Gonzalez sort of appeared. We I don't think very many of us knew Juan. At any time. Then, we quickly learned so many of the things he was like a good dancer and dancing, dancing all night. \n\nHe was with the young lord.\n\nYeah, that's right. Yeah, he was with the young lords. And we as our own news service Hispanic Link was very active and going trying to go to both the East Coast and West Coast things but we were mostly familiar at that point. With with West Coast with with LA with the various groups that came out of CCNMA.\n\nInterviewee\nIn depth response\nRecalled memories with laughter / became animated / use of hand gestures\n\nInterviewer\nEstablishing rapport\nParts of this sequence was an exchange between the interviewee/interviewer with a couple of interjections from the interviewer (or another individual in the room - it is not quite clear) to help fill in the responses.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Bspharr.github.io/Ericksen-Interview/ericksen-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "793.0,871.0"
+        }
+      }
+    }
+  ]
+}
